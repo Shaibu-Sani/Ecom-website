@@ -1,0 +1,2 @@
+This is a responsive Ecom Website that I built along with tech2, using html, css and vanilla javaScript. While building this website, I learnt a lot about media queries and how to build for different screen sizes. And how to manage my code and files. 
+Writing clean code not just for myself but to make it easy for others to be able to easily read and understand. All these made this Ecom Website exceptional and user/beginner friendly.
